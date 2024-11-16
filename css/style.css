@@ -1,0 +1,11 @@
+h1, h2, p{
+    margin: 20px auto;
+    padding-top: 20px ;
+}
+.one{
+    color: rgba(6, 92, 52, 0.995);
+}
+.liner{
+    border: 5px solid rgb(136, 41, 0);
+    color: rgb(250, 255, 176);
+}
